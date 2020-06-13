@@ -1,5 +1,5 @@
 import React,{useState} from 'react';
-import logo from './logo.svg';
+//import logo from './logo.svg';
 import './App.css';
 import ChildApp from './ChildApp'
 //import childApp from './childApp.js';
